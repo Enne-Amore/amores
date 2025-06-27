@@ -16,3 +16,23 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" title="CSS" alt="CSS" width="40" height="40"/>
   </p>
 
+
+## 📂 Estrutura do Projeto
+
+ ```plaintext
+ amores/
+ ├── css/                    # Arquivos CSS
+ │   ├── estilo.css
+ │   ├── video.css       
+ ├── fonts/                  # Arquivos das fontes utilizadas  
+ │   ├── AmoreMIO.ttf
+ ├── img/                    # Imagens utilizadas 
+ ├── view/                   # Arquivos JavaScript
+ │   ├── lumity.html
+ │   ├── mavee.html
+ │   ├── mioshun.html
+ │   ├── raineda.html
+ ├── index.html              # Arquivo principal de renderização
+ ├── README.md
+ ```
+
