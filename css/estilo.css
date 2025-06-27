@@ -8,7 +8,7 @@
 /* A mente do site */
 
 body {
-    background-image: linear-gradient(45deg, #ffadad, #ffd6a5, #fdffb6, #caffbf, #9bf6ff, #a0c4ff, #bdb2ff, #ffc6ff, white);
+    background-image: linear-gradient(45deg, #ffadad, #ffd6a5, #fdffb6, #caffbf, #9bf6ff, #a0c4ff, #bdb2ff, #ffc6ff, #fffdfd);
     background-attachment: fixed;
     max-width: 100%;
     height: auto;
@@ -33,7 +33,7 @@ body {
 /* E o seu conteúdo em si */
 
 .guia {
-    border-bottom: 2px solid #000000;
+    border-bottom: 2px solid #202020;
     margin: 2%;
     font-size: 1.7em;
 }
@@ -66,7 +66,7 @@ body {
 /* O rodapé do site */
 
 .rodape {
-    background-color: white;
+    background-color: #fffdfd;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.137);
     width: max-content;
     margin: 6% auto;

@@ -67,14 +67,17 @@
 
  | Cor         | Hexadecimal |
  | ----------- | ----------- |
- | Vermelha    | `#ffadad`   |
- | Laranja     | `#ffd6a5`   |
- | Amarela     | `#fdffb6`   |
- | Verde       | `#caffbf`   |
- | Azul Clara  | `#9bf6ff`   |
- | Azul Escura | `#a0c4ff`   |
- | Roxa        | `#bdb2ff`   |
- | Lilás       | `#ffc6ff`   |
+ | Vermelha    | `#FFADAD`   |
+ | Laranja     | `#FFD6A5`   |
+ | Amarela     | `#FDFFB6`   |
+ | Verde       | `#CAFFBF`   |
+ | Azul Clara  | `#9BF6FF`   |
+ | Azul Escura | `#A0C4FF`   |
+ | Roxa        | `#BDB2FF`   |
+ | Lilás       | `#FFC6FF`   |
+ | Preta       | `#202020`   |
+ | Cinza       | `#686868`   |
+ | Branca      | `#FFFDFD`   |
 
 
 ## 🔤 Fontes Tipográficas
