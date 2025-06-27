@@ -9,6 +9,11 @@
  [Clique aqui para acessar o website](https://enne-amore.github.io/amores/)
 
 
+## 🎞️ Pré-visualização
+
+ <img src="img/preview.png" alt="Pré-visualização do site" width="340" height="200">
+
+
 ## 🚀 Tecnologias Utilizadas
 
   <p align="left">
