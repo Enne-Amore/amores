@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'amore';
-    src: url(../fontes/AmoreMIO.ttf) format('truetype');
+    src: url(../fonts/AmoreMIO.ttf) format('truetype');
 }
 
 /* A mente do site */
@@ -12,12 +12,9 @@ body {
     background-attachment: fixed;
     max-width: 100%;
     height: auto;
-    font-family: 'amore';
+    font-family: var(--amore);
     font-size: 1.7em;
     text-align: center;
-}
-:focus {
-    outline: 0;
 }
 :root {
     --cor1: #ffadad;
@@ -28,6 +25,8 @@ body {
     --cor6: #a0c4ff;
     --cor7: #bdb2ff;
     --cor8: #ffc6ff;
+    --amore: "amore";
+    --padrao: Arial, Helvetica, sans-serif;
 }
 
 /* O corpo do site */
@@ -80,7 +79,6 @@ body {
     color: #202020;
 }
 .rodape a:focus-visible {
-    outline: auto;
     padding: 0.2em;
 }
 .rodape a:hover,

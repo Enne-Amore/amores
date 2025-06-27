@@ -3,7 +3,7 @@
 /* Importação de fonte */
 @font-face {
     font-family: 'amore';
-    src: url(../fontes/AmoreMIO.ttf) format('truetype');
+    src: url(../fonts/AmoreMIO.ttf) format('truetype');
 }
 
 /* A mente do site */
@@ -15,7 +15,7 @@ body {
     overflow-x: hidden;
     margin: 0;
     font-size: 1.5em;
-    font-family: 'amore';
+    font-family: var(--amore);
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -52,10 +52,10 @@ body {
 }
 .link a {
     text-decoration: none;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: var(--padrao);
+    color: white;
     width: 100%;
     margin: auto;
-    color: white;
 }
 
 .voltar img {
@@ -64,9 +64,6 @@ body {
     height: auto;
     border-radius: 50%;
     overflow: hidden;
-}
-.voltar a:focus-visible {
-    outline: 0;
 }
 .voltar img:hover,
 .voltar a:focus-visible img {
