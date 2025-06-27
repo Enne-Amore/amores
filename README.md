@@ -71,3 +71,15 @@
  | Roxa        | `#bdb2ff`   |
  | Lilás       | `#ffc6ff`   |
 
+
+## 🔤 Fontes Tipográficas
+
+ - **Amore MIO**  
+   Exemplo de uso:  
+   `font-family: "amore";` ou 
+   `font-family: var(--amore);`
+ - **Arial, Helvetica, Sans-Serif**  
+   Exemplo de uso:  
+   `font-family: Arial, Helvetica, sans-serif;` ou 
+   `font-family: var(--padrao);`
+

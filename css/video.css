@@ -15,7 +15,7 @@ body {
     overflow-x: hidden;
     margin: 0;
     font-size: 1.5em;
-    font-family: 'amore';
+    font-family: var(--amore);
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -52,7 +52,7 @@ body {
 }
 .link a {
     text-decoration: none;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: var(--padrao);
     width: 100%;
     margin: auto;
     color: white;
