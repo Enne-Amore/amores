@@ -57,3 +57,17 @@
  Open with Live Server
  ```
 
+
+## 🌈 Cores
+
+ | Cor         | Hexadecimal |
+ | ----------- | ----------- |
+ | Vermelha    | `#ffadad`   |
+ | Laranja     | `#ffd6a5`   |
+ | Amarela     | `#fdffb6`   |
+ | Verde       | `#caffbf`   |
+ | Azul Clara  | `#9bf6ff`   |
+ | Azul Escura | `#a0c4ff`   |
+ | Roxa        | `#bdb2ff`   |
+ | Lilás       | `#ffc6ff`   |
+
