@@ -53,9 +53,9 @@ body {
 .link a {
     text-decoration: none;
     font-family: var(--padrao);
+    color: white;
     width: 100%;
     margin: auto;
-    color: white;
 }
 
 .voltar img {
@@ -64,9 +64,6 @@ body {
     height: auto;
     border-radius: 50%;
     overflow: hidden;
-}
-.voltar a:focus-visible {
-    outline: 0;
 }
 .voltar img:hover,
 .voltar a:focus-visible img {

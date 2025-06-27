@@ -16,9 +16,6 @@ body {
     font-size: 1.7em;
     text-align: center;
 }
-:focus {
-    outline: 0;
-}
 :root {
     --cor1: #ffadad;
     --cor2: #ffd6a5;
@@ -82,7 +79,6 @@ body {
     color: #202020;
 }
 .rodape a:focus-visible {
-    outline: auto;
     padding: 0.2em;
 }
 .rodape a:hover,
